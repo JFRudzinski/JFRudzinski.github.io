@@ -10,7 +10,7 @@ keyvisual1_suff: jpeg
 ---
 
 {% for post in site.categories.Page %}
-  <h1>{{post.permalink}}</h1>
+  <h1>test {{post.title}}</h1>
 {% endfor %}
 
 <!-- This is the carousel title -->
