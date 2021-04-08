@@ -9,8 +9,8 @@ keyvisual1: Header/Header-edited # let's add the suffix as an additional variabl
 keyvisual1_suff: jpeg
 ---
 
-{% for page in site.pages %}
-  <h1>{{page.permalink}}</h1>
+{% for post in site.categories.Page %}
+  <h1>{{post.permalink}}</h1>
 {% endfor %}
 
 <!-- This is the carousel title -->

@@ -1,6 +1,7 @@
 ---
 layout: "default-title"
 title: "Publications"
+categories: jekyll Page
 ---
 
 <!-- Pubs List -->
