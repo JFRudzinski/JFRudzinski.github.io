@@ -2,6 +2,7 @@
 layout: "default-title"
 title: "Publications"
 categories: jekyll Page
+permalink: /_pages/publications/
 ---
 
 <!-- Pubs List -->
