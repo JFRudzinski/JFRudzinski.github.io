@@ -1,0 +1,18 @@
+{% if page.keyvisual %}
+<section class="keyvisual" height="900">
+	<picture height="900">
+		<source
+			srcset="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual }}.{{ page.keyvisual_suff }} 2x"
+			media="(max-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), (max-width: 768px) and (min-resolution: 144dpi)">
+		<source
+			srcset="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual }}.{{ page.keyvisual_suff }} 2x"
+			media="(max-width: 768px)">
+		<source
+			srcset="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual }}.{{ page.keyvisual_suff }} 2x"
+			media="(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)">
+		<source
+			srcset="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual }}.{{ page.keyvisual_suff }} 2x">
+		<img src="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual }}.{{ page.keyvisual_suff }}">
+	</picture>
+</section>
+{% endif %}

@@ -1,0 +1,18 @@
+{% if page.keyvisual %}
+<section class="keyvisual" height="500">
+	<picture height="500">
+		<source
+			srcset="https://res.cloudinary.com/glueckkanja/image/upload/c_limit,f_auto,q_auto,dpr_2.0/keyvisuals/{{ page.keyvisual }}.png 2x"
+			media="(max-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), (max-width: 768px) and (min-resolution: 144dpi)">
+		<source
+			srcset="https://res.cloudinary.com/glueckkanja/image/upload/c_limit,f_auto,q_auto/keyvisuals/{{ page.keyvisual }}-small.png 2x"
+			media="(max-width: 768px)">
+		<source
+			srcset="https://res.cloudinary.com/glueckkanja/image/upload/c_limit,f_auto,q_auto,dpr_2.0/keyvisuals/{{ page.keyvisual }}.png 2x"
+			media="(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)">
+		<source
+			srcset="https://res.cloudinary.com/glueckkanja/image/upload/c_limit,f_auto,q_auto/keyvisuals/{{ page.keyvisual }}.png 2x">
+		<img src="https://res.cloudinary.com/glueckkanja/image/upload/c_limit,f_auto,q_auto/keyvisuals/{{ page.keyvisual }}.png">
+	</picture>
+</section>
+{% endif %}

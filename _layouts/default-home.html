@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="{{site.active_lang}}" class="no-js">
+
+  {% include head.html %}
+  {% assign currentRequest = page.url | remove_first: '/' | downcase | split: '/' %}
+
+  <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top"  data-offset="151">
+
+		{% include navigation.html currentRequest=currentRequest %}
+
+        <section class="keyvisualhome1" height="900">
+            <picture width="900">
+                <source
+                    srcset="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual1 }}.{{ page.keyvisual1_suff }} 2x"
+                    media="(max-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), (max-width: 768px) and (min-resolution: 144dpi)">
+                <source
+                    srcset="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual1 }}.{{ page.keyvisual1_suff }} 2x"
+                    media="(max-width: 768px)">
+                <source
+                    srcset="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual1 }}.{{ page.keyvisual1_suff }} 2x"
+                    media="(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)">
+                <source
+                    srcset="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual1 }}.{{ page.keyvisual1_suff }} 2x">
+                <img src="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual1 }}">
+            </picture>
+        </section>
+
+        <section class="keyvisualhome2" height="900">
+            <picture width="900">
+                <source
+                    srcset="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual2 }}.{{ page.keyvisual2_suff }} 2x"
+                    media="(max-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), (max-width: 768px) and (min-resolution: 144dpi)">
+                <source
+                    srcset="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual2 }}.{{ page.keyvisual2_suff }} 2x"
+                    media="(max-width: 768px)">
+                <source
+                    srcset="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual2 }}.{{ page.keyvisual2_suff }} 2x"
+                    media="(-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi)">
+                <source
+                    srcset="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual2 }}.{{ page.keyvisual2_suff }} 2x">
+                <img src="{{site.baseurl}}/assets/content/Images/{{ page.keyvisual2 }}.{{ page.keyvisual2_suff }}">
+            </picture>
+        </section>
+
+
+
+
+        
+
+		<section id="start">
+			  {{ content }}
+    </section>
+
+    {% if page.nositelinks == nil %}
+  		{% include sitelinks.html %}
+    {% endif %}
+    {% include footer.html %}
+    {% include scripts.html %}
+
+  </body>
+</html>
+<!-- Page Info: DEFAULT Layout -->
