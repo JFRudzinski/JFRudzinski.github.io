@@ -63,10 +63,9 @@ defaults:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 include:
-    - _pages/
-    - _layouts/
-    - _posts/
-    - _includes/
+    - .htaccess
+    - _pages
+    
 #
 # exclude:
 #   - .sass-cache/
