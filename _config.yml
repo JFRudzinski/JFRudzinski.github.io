@@ -64,6 +64,9 @@ defaults:
 # their entries' file path in the `include:` list.
 include:
     - _pages/
+    - _layouts/
+    - _posts/
+    - _includes/
 #
 # exclude:
 #   - .sass-cache/

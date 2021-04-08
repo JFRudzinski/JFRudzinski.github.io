@@ -11,7 +11,7 @@ source "https://rubygems.org"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.5"
 #gem "jekyll-theme-hacker" # JFR - after adding new theme, run bundle install in terminal to get new theme
-gem 'jekyll-theme-glueckkanja', '~> 1.2', '>= 1.2.29'
+#gem 'jekyll-theme-glueckkanja', '~> 1.2', '>= 1.2.29'
 #gem "jekyll-theme-cayman"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
