@@ -9,11 +9,7 @@ keyvisual1: Header/Header-edited # let's add the suffix as an additional variabl
 keyvisual1_suff: jpeg
 ---
 
-<h1>test even</h1>
-{% assign pages = site.pages | where_exp: "item" , "item.path contains '_pages/'"%}
-{% for item in pages %}
-  <h1> {{item.title}} {{item.permalink}} </h1>
-{% endfor %}
+<h1 class="center">test odd</h1>
 
 <!-- This is the carousel title -->
 <div class="specials-grey">
