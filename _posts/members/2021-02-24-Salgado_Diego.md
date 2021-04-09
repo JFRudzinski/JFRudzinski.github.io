@@ -7,6 +7,6 @@ title: Master's Student
 project:  Time-informed variational autoencoders for molecular simulation analysis
 pic: Misc/blank # assumes in content/Images/
 pic_suff: jpg
-res-pic: Misc/JCP_persp_cover
+res-pic: Pubs/2020/MLST_Bozkurt_Rudzinski_2020/Fig
 res-pic_suff: jpg
 ---

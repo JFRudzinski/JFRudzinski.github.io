@@ -90,7 +90,8 @@ keyvisual1_suff: jpeg
     </div>
 </div>
   <!-- all your great html... -->
-  <script src="{{site.url}}/assets/css/flickity.pkgd.min.js"></script>
+  <!-- <script src="{{site.url}}/assets/css/flickity.pkgd.min.js"></script> -->
+  <script src="{{site.baseurl}}/assets/css/flickity.pkgd.min.js"></script>
 </body>
 </div>
 
