@@ -9,7 +9,7 @@ keyvisual1: Header/Header-edited # let's add the suffix as an additional variabl
 keyvisual1_suff: jpeg
 ---
 
-<h1 class="center">test odd</h1>
+<!-- <h1 class="center">test odd</h1> -->
 <!-- {% assign pages = site.pages | where_exp: "item" , "item.path contains '_pages/'"%}
 {% for item in pages %}
   <p> {{item.title}} {{item.permalink}} </p>
@@ -79,12 +79,12 @@ keyvisual1_suff: jpeg
         <div class="carousel-inner">
             <div class="active item">
             <div class="center">
-                <a href="{{site.url}}/_pages/publications"><button class="carousel-button-2 shadow">More Publications</button></a>
+                <a href="{{site.baseurl}}/_pages/publications"><button class="carousel-button-2 shadow">More Publications</button></a>
             </div>
             <div class="center">
-                <a href="{{site.url}}/_pages/news"><button class="carousel-button-1 shadow">More News</button></a>
+                <a href="{{site.baseurl}}/_pages/news"><button class="carousel-button-1 shadow">More News</button></a>
             </div>
-            <img src="{{site.url}}/assets/content/Images/Misc/blank.jpg" alt="">
+            <img src="{{site.baseurl}}/assets/content/Images/Misc/blank.jpg" alt="">
             </div>
         </div>
     </div>
