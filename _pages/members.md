@@ -38,10 +38,10 @@ PI-pic_suff: jpeg
     <div class="container">
         <h3>Publication Summary as of April 07, 2021: </h3><h3 class=center> <a href="https://scholar.google.com/citations?user=8DuZOHUAAAAJ&hl=en" target="_blank"><button class="button-new shadow">Google Scholar</button></a> </h3>
         <div class="col-xs-12 col-sm-12 col-md-6">
-          <img src="{{site.url}}/assets/content/Images/Members/Citations.jpg">
+          <img src="{{site.baseurl}}/assets/content/Images/Members/Citations.jpg">
         </div>
         <div class="col-xs-12 col-sm-6 col-md-6">
-          <img src="{{site.url}}/assets/content/Images/Members/Pub_Dist.jpg"> 
+          <img src="{{site.baseurl}}/assets/content/Images/Members/Pub_Dist.jpg"> 
         </div>
     </div>
   </section>
