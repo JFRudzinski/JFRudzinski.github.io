@@ -10,7 +10,7 @@ categories: jekyll Class
 ---
 
 <div class="container">
-    <div class="center">
+    <div class="center" style="margin-top:2cm; margin-bottom:2cm">
         <h2 class="post-title">Vorlesung-Folien</h2>
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_02.pdf" target="_blank"><button class="button-new shadow">Vorlesung 2</button></a>
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Uebungsblaetter/Blatt02.pdf" target="_blank"><button class="button-new shadow">Blatt 02</button></a>
@@ -19,7 +19,7 @@ categories: jekyll Class
 </div>
 
 <div class="container">
-    <div class="center">
+    <div class="center"  style="margin-top:2cm; margin-bottom:2cm">
         <h2 class="post-title">Übungsblätter</h2>
         <p>
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Uebungsblaetter/Blatt01.pdf" target="_blank"><button class="button-new shadow">Blatt 01</button></a>
