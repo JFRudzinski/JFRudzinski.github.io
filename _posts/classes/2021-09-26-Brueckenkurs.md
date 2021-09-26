@@ -13,8 +13,6 @@ categories: jekyll Class
 <div class="container">
     <div class="center" style="margin-top:1cm; margin-bottom:1cm">
         <a href="https://forms.gle/GyFc6HxY5y6XXbS4A" target="_blank"><button class="button-new shadow">Umfrage für Tag 1</button></a>
-        &nbsp;&nbsp;
-        </p>
     </div>
 </div>
 
@@ -23,7 +21,11 @@ categories: jekyll Class
     <div class="center" style="margin-top:1cm; margin-bottom:1cm">
         <h2 class="post-title">Vorlesung</h2>
         <p> Raum: 01 212 HS 18 </p>
-        <p> Online: <a href="https://bbb.rlp.net/b/rud-6i8-jco-pvu"> Big Blue Button</a> </p>
+        <p> Online: 
+        <a href="https://bbb.rlp.net/b/rud-6i8-jco-pvu"> Big Blue Button
+        </a> 
+        </p>
+        <a href="https://bbb.rlp.net/b/rud-6i8-jco-pvu">link text</a>
         <p>
         <h3 class="post-subtitle">Folien</h3>
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_02.pdf" target="_blank"><button class="button-new shadow">Vorlesung 2</button></a>
