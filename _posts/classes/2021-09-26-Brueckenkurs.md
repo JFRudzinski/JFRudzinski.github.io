@@ -10,7 +10,9 @@ categories: jekyll Class
 ---
 
 <div class="container">
-  <p> We have rebuilt and relaunched our website!! We are continuing to add content and features, so please be patient and check back for updates. Please note that our url has changed: <p class="text-primary center"><a href="https://RudzinskiGroup.com"><strong>RudzinskiGroup.com</strong></a></p>. </p>
+  <p style="margin-top:50cm;"> We have rebuilt and relaunched our website!! We are continuing to add content and features, so please be patient and check back for updates. Please note that our url has changed: <p class="text-primary center"><a href="https://RudzinskiGroup.com"><strong>RudzinskiGroup.com</strong></a></p>. </p>
+  </div>
+  
 
 <div class="container">
     <div class="center">
