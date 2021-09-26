@@ -26,6 +26,7 @@ categories: jekyll Class
         </a> 
         </p>
         <h3 class="post-subtitle">Folien</h3>
+        <p>
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_02.pdf" target="_blank"><button class="button-new shadow">Vorlesung 2</button></a>
         &nbsp;&nbsp;
         </p>
