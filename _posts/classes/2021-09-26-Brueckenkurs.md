@@ -36,6 +36,19 @@ categories: jekyll Class
         &nbsp;&nbsp; 
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Uebungsblaetter/Blatt07.pdf" target="_blank"><button class="button-new shadow">Blatt 07</button></a>
         </p>
+        <p>
+        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Uebungsblaetter/Blatt08.pdf" target="_blank"><button class="button-new shadow">Blatt 08</button></a>
+        &nbsp;&nbsp;
+        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Uebungsblaetter/Blatt09.pdf" target="_blank"><button class="button-new shadow">Blatt 09</button></a>
+        &nbsp;&nbsp;
+        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Uebungsblaetter/Blatt10.pdf" target="_blank"><button class="button-new shadow">Blatt 10</button></a>
+        &nbsp;&nbsp;
+        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Uebungsblaetter/Blatt11.pdf" target="_blank"><button class="button-new shadow">Blatt 11</button></a>
+        &nbsp;&nbsp; 
+        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Uebungsblaetter/Blatt12.pdf" target="_blank"><button class="button-new shadow">Blatt 12</button></a>
+        &nbsp;&nbsp; 
+        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Uebungsblaetter/Blatt13.pdf" target="_blank"><button class="button-new shadow">Blatt 13</button></a>
+        </p>
     </div>
 </div>
 
