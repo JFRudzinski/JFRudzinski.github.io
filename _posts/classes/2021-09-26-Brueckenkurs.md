@@ -25,8 +25,6 @@ categories: jekyll Class
         <a href="https://bbb.rlp.net/b/rud-6i8-jco-pvu"> Big Blue Button
         </a> 
         </p>
-        <a href="https://bbb.rlp.net/b/rud-6i8-jco-pvu">link text</a>
-        <p>
         <h3 class="post-subtitle">Folien</h3>
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_02.pdf" target="_blank"><button class="button-new shadow">Vorlesung 2</button></a>
         &nbsp;&nbsp;
