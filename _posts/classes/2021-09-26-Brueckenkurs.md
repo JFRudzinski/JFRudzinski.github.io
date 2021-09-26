@@ -12,7 +12,7 @@ categories: jekyll Class
 <div class="container">
     <div class="center">
         <h2 class="post-title">Vorlesung-Folien</h2>
-        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vor02.pdf" target="_blank"><button class="button-new shadow">Vorlesung 2</button></a>
+        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_02.pdf" target="_blank"><button class="button-new shadow">Vorlesung 2</button></a>
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Uebungsblaetter/Blatt02.pdf" target="_blank"><button class="button-new shadow">Blatt 02</button></a>
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Uebungsblaetter/Blatt03.pdf" target="_blank"><button class="button-new shadow">Blatt 03</button></a>
     </div>
