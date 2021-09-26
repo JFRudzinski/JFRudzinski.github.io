@@ -23,7 +23,7 @@ categories: jekyll Class
     <div class="center" style="margin-top:1cm; margin-bottom:1cm">
         <h2 class="post-title">Vorlesung</h2>
         <p> Raum: 01 212 HS 18 </p>
-        <p> Online: <a href=https://bbb.rlp.net/b/rud-6i8-jco-pvu> Big Blue Button</a> </p>
+        <p> Online: <a href="https://bbb.rlp.net/b/rud-6i8-jco-pvu"> Big Blue Button</a> </p>
         <p>
         <h3 class="post-subtitle">Folien</h3>
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_02.pdf" target="_blank"><button class="button-new shadow">Vorlesung 2</button></a>
@@ -34,7 +34,10 @@ categories: jekyll Class
 
 <div class="container">
     <div class="center"  style="margin-top:1cm; margin-bottom:1cm">
-        <h2 class="post-title">Übungsblätter</h2>
+        <h2 class="post-title">Übungen</h2>
+        <p> Gruppe 1 (auf Deutsch) - Raum: 01 122 Newton-Raum, Staudingerweg 9; Übungsleiter: Manuel Moser  </p>
+        <p> Gruppe 2 (auf English) - Raum: 05 119 Minkowski-Raum, Staudingerweg 7; Übungsleiter: Daniel Chavez </p>
+        <h3 class="post-subtitle">Blätter</h3>
         <p>
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Uebungsblaetter/Blatt01.pdf" target="_blank"><button class="button-new shadow">Blatt 01</button></a>
         &nbsp;&nbsp;
