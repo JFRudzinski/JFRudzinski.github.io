@@ -29,6 +29,8 @@ categories: jekyll Class
         <p>
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_01.pdf" target="_blank"><button class="button-new shadow">Vorlesung 1</button></a>
         &nbsp;&nbsp;
+        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_02.pdf" target="_blank"><button class="button-new shadow">Vorlesung 2</button></a>
+        &nbsp;&nbsp;
         </p>
     </div>
 </div>
