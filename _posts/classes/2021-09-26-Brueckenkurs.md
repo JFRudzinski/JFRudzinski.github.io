@@ -12,7 +12,8 @@ categories: jekyll Class
 
 <div class="container">
     <div class="center" style="margin-top:1cm; margin-bottom:1cm">
-        <a href="https://forms.gle/GyFc6HxY5y6XXbS4A" target="_blank"><button class="button-new shadow">Umfrage für Tag 1</button></a>
+        <h2 class="post-title">28.09.21:</h2>
+        <p> In Bezug auf das technische Problem heute: Es scheint, dass fast alle Onlinestudenten geblieben sind, bis wir das Problem gelöst hatten. Da die Videoaufzeichnung nicht richtig funktioniert hat, werde ich kein Video von diesem Vortrag veröffentlichen. Wenn Sie ihn verpasst haben, machen Sie sich keine Sorgen, die meisten praktischen Aspekte des Vortrags waren recht grundlegend. Sie können die Folien der Vorlesung hier finden und alle Fragen, die Sie haben, entweder zur Übungsgruppe oder zur Diskussion nach der Vorlesung morgen mitbringen. Wenn Sie größere Probleme haben, können Sie mir gerne eine E-Mail an rudzinski@mpip-mainz.mpg.de schicken. </p>
     </div>
 </div>
 
