@@ -13,7 +13,7 @@ categories: jekyll Class
 <div class="container">
     <div class="center" style="margin-top:1cm; margin-bottom:1cm">
         <h2 class="post-title">29.09.21:</h2>
-        <p> Leider hat die Aufnahme während der Vorlesung nicht funktioniert. Ich habe nach der Vorlesung eine neue gemacht (siehe unten). Ich werde morgen etwas anderes versuchen. Wenn es wieder schlecht ist, werde ich ein anderes Video einstellen, und so bald wie möglich posten. Wenn Sie die Möglichkeit haben, würde ich sehr empfehle, an der Vorlesung teilzunehmen. Ansonsten werde ich mein Bestes mit diesen Videos geben. Entschuldigung für die Schwierigkeiten. </p>
+        <p> Leider hat die Aufnahme während der Vorlesung nicht funktioniert. Ich habe nach der Vorlesung eine neue gemacht (siehe unten). Ich werde morgen etwas anderes versuchen. Wenn es wieder schlecht ist, werde ich ein anderes Video einstellen, und so bald wie möglich posten. Wenn Sie die Möglichkeit haben, würde ich sehr empfehle, an der Vorlesung im präsenz teilzunehmen. Ansonsten werde ich mein Bestes mit diesen Videos geben. Entschuldigung für die Schwierigkeiten. </p>
     </div>
 </div>
 
