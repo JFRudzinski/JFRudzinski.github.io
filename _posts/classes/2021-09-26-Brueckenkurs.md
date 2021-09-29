@@ -12,8 +12,8 @@ categories: jekyll Class
 
 <div class="container">
     <div class="center" style="margin-top:1cm; margin-bottom:1cm">
-        <h2 class="post-title">28.09.21:</h2>
-        <p> In Bezug auf das technische Problem heute: Es scheint, dass fast alle Onlinestudenten geblieben sind, bis wir das Problem gelöst hatten. Da die Videoaufzeichnung nicht richtig funktioniert hat, werde ich kein Video von diesem Vortrag veröffentlichen. Wenn Sie ihn verpasst haben, machen Sie sich keine Sorgen, die meisten praktischen Aspekte des Vortrags waren recht grundlegend. Sie können die Folien der Vorlesung hier finden und alle Fragen, die Sie haben, entweder zur Übungsgruppe oder zur Diskussion nach der Vorlesung morgen mitbringen. Wenn Sie größere Probleme haben, können Sie mir gerne eine E-Mail an <nobr>rudzinski@mpip-mainz.mpg.de</nobr> schicken. </p>
+        <h2 class="post-title">29.09.21:</h2>
+        <p> Leider hat die Aufnahme während der Vorlesung nicht funktioniert. Ich habe nach der Vorlesung eine neue gemacht (siehe unten). Ich werde morgen etwas anderes versuchen. Wenn es wieder schlecht ist, werde ich ein anderes Video einstellen, und so bald wie möglich posten. Wenn Sie die Möglichkeit haben, würde ich sehr empfehle, an der Vorlesung teilzunehmen. Ansonsten werde ich mein Bestes mit diesen Videos geben. Entschuldigung für die Schwierigkeiten. </p>
     </div>
 </div>
 
@@ -33,6 +33,11 @@ categories: jekyll Class
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_02.pdf" target="_blank"><button class="button-new shadow">Vorlesung 2</button></a>
         &nbsp;&nbsp;
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_03.pdf" target="_blank"><button class="button-new shadow">Vorlesung 3</button></a>
+        &nbsp;&nbsp;
+        </p>
+        <h3 class="post-subtitle">Videos</h3>
+        <p>
+        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_03.mp4" target="_blank"><button class="button-new shadow">Vorlesung 3</button></a>
         &nbsp;&nbsp;
         </p>
     </div>
