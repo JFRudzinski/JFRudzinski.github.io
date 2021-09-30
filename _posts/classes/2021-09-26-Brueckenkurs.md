@@ -10,12 +10,12 @@ categories: jekyll Class
 ---
 
 
-<div class="container">
+<!-- <div class="container">
     <div class="center" style="margin-top:1cm; margin-bottom:1cm">
         <h2 class="post-title">29.09.21:</h2>
         <p> Leider hat die Aufnahme während der Vorlesung nicht funktioniert. Ich habe nach der Vorlesung eine neue gemacht (siehe unten). Ich werde morgen etwas anderes versuchen. Wenn es wieder schlecht ist, werde ich ein anderes Video einstellen, und so bald wie möglich posten. Wenn Sie die Möglichkeit haben, würde ich sehr empfehle, an der Vorlesung im präsenz teilzunehmen. Ansonsten werde ich mein Bestes mit diesen Videos geben. Entschuldigung für die Schwierigkeiten. </p>
     </div>
-</div>
+</div> -->
 
 
 <div class="container">
@@ -36,10 +36,14 @@ categories: jekyll Class
         &nbsp;&nbsp;
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_04.pdf" target="_blank"><button class="button-new shadow">Vorlesung 4</button></a>
         &nbsp;&nbsp;
+        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_05.pdf" target="_blank"><button class="button-new shadow">Vorlesung 5</button></a>
+        &nbsp;&nbsp;
         </p>
         <h3 class="post-subtitle">Videos</h3>
         <p>
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_03.mp4" target="_blank"><button class="button-new shadow">Vorlesung 3</button></a>
+        &nbsp;&nbsp;
+        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_04.mov" target="_blank"><button class="button-new shadow">Vorlesung 4</button></a>
         &nbsp;&nbsp;
         </p>
     </div>
