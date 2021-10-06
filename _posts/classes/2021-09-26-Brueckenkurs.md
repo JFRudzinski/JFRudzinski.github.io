@@ -46,6 +46,8 @@ categories: jekyll Class
         &nbsp;&nbsp;
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_08.pdf" target="_blank"><button class="button-new shadow">Vorlesung 8</button></a>
         &nbsp;&nbsp;
+        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_09.pdf" target="_blank"><button class="button-new shadow">Vorlesung 9</button></a>
+        &nbsp;&nbsp;
         </p>
         <h3 class="post-subtitle">Videos</h3>
         <p>
