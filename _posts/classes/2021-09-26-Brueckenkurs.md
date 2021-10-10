@@ -51,6 +51,10 @@ categories: jekyll Class
         <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_10.pdf" target="_blank"><button class="button-new shadow">Vorlesung 10</button></a>
         &nbsp;&nbsp;
         </p>
+        <p>
+        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_011.pdf" target="_blank"><button class="button-new shadow">Vorlesung 11</button></a>
+        &nbsp;&nbsp;
+        </p>
         <h3 class="post-subtitle">Videos</h3>
         <p>
         <a href="https://datashare.mpcdf.mpg.de/s/QrOvNL85f2Roca4" target="_blank"><button class="button-new shadow">Repo</button></a>
