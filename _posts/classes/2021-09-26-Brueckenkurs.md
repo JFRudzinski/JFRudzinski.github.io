@@ -52,7 +52,7 @@ categories: jekyll Class
         &nbsp;&nbsp;
         </p>
         <p>
-        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_011.pdf" target="_blank"><button class="button-new shadow">Vorlesung 11</button></a>
+        <a href="{{site.baseurl}}/assets/content/Teaching/Brueckenkurs/Vorlesungen/vorl_11.pdf" target="_blank"><button class="button-new shadow">Vorlesung 11</button></a>
         &nbsp;&nbsp;
         </p>
         <h3 class="post-subtitle">Videos</h3>
